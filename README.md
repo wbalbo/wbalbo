@@ -1,6 +1,6 @@
 ### Hi there, I'm Wellington! 👋
 
-<div>
+<div>  
   <a href="https://github.com/wbalbo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbalbo&theme=tokyonight&count_private=true&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbalbo&theme=tokyonight&layout=compact&hide=Ruby,Objective-C,Starlark,Java,ASP" />
@@ -35,3 +35,5 @@ You can find me on the social networks below:
 - 💬 Ask me about programming, financial tips or about games, these are the 3 of the biggest things that I know and like more.
 
 If you have any questions please let me know, thanks!
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
