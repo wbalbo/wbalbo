@@ -3,7 +3,7 @@
 <div>  
   <a href="https://github.com/wbalbo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbalbo&theme=tokyonight&count_private=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbalbo&theme=tokyonight&layout=compact&hide=Ruby,Objective-C,Starlark,Java,ASP" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbalbo&theme=tokyonight&layout=compact" />
   </a>
 </div>
 <br>
@@ -17,6 +17,8 @@ I'm a Software Developer since 2009, working most with Microsoft technologies, m
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wbalbo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br><br>
 You can find me on the social networks below:
 <div style="display: inline_block"><br>
   <a href="mailto:wellingtonbalbo@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
