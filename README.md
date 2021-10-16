@@ -17,7 +17,7 @@ I'm a Software Developer since 2009, working most with Microsoft technologies, m
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wbalbo&theme=Javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wbalbo&theme=Javascript-dark)](https://git.io/streak-stats)
 <br><br>
 You can find me on the social networks below:
 <div style="display: inline_block"><br>
