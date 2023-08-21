@@ -7,7 +7,7 @@
   </a>
 </div>
 <br>
-I'm a Software Developer since 2009, working most with Microsoft technologies, my most used skills below:
+I'm a Software Developer since 2009, working mostly with Microsoft technologies, my most used skills are below:
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -32,11 +32,9 @@ You can find me on the social networks below:
 </div>
 <br>
 
-- 🔭 I’m currently working to improve my English skills, with a professional help of a private teacher.
-- 🌱 I’m currently learning more of my professional area, learning more .NET Core, SOLID principles, Design Patterns and other cool things, I'll post new projects here in Github soon with my experiences.
-- 👯 I’m looking to collaborate on new and exciting projects in newer technologies, preferably in .NET field.
-- 🤔 I’m looking for help with a exciting new remote position in programming for a good company from outside my country (Brazil), because I want an international experience.
-- 💬 Ask me about programming, financial tips or about games, these are the 3 of the biggest things that I know and like more.
+- 🔭 I’m currently working on my personal project called [TwitterScraper](https://github.com/wbalbo/twitterscraper), to help scrap information from Twitter without requiring API or Selenium.
+- 🌱 I’m currently learning more of my professional area, learning more .NET Core, SOLID principles, Design Patterns, and other cool things, I'll post new projects here in Github soon with my experiences.
+- 👯 I’m looking to collaborate on new and exciting projects in newer technologies, preferably in the .NET field.
 
 If you have any questions please let me know, thanks!
 
