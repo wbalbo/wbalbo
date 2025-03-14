@@ -16,10 +16,8 @@ I have been a Software Developer since 2009, working mostly with Microsoft techn
   <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
-<br>
-<a href="https://git.io/streak-stats" target="_blank">
-  <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=wbalbo)](https://git.io/streak-stats)" />
-</a>
+<be>
+<img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=wbalbo)](https://git.io/streak-stats)" />
 <br><br>
 You can find me on the social networks below:
 <div style="display: inline_block"><br>
