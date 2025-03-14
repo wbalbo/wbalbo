@@ -7,7 +7,7 @@
   </a>
 </div>
 <br>
-I’m a Software Developer since 2009, working mostly with Microsoft technologies, my most used skills are below:
+I have been a Software Developer since 2009, working mostly with Microsoft technologies, my most used skills are below:
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -18,7 +18,7 @@ I’m a Software Developer since 2009, working mostly with Microsoft technologie
 </div>
 <br>
 <a href="https://git.io/streak-stats" target="_blank">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wbalbo&theme=Javascript-dark" />
+  <img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=wbalbo)](https://git.io/streak-stats)" />
 </a>
 <br><br>
 You can find me on the social networks below:
