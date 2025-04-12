@@ -7,7 +7,7 @@
   </a>
 </div>
 <br>
-I have been a Software Developer since 2009, working mostly with Microsoft technologies, my most used skills are below:
+I have been a Software Developer since 2009, working mostly with Microsoft technologies. My most used skills are below:
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -17,7 +17,6 @@ I have been a Software Developer since 2009, working mostly with Microsoft techn
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 <be>
-<img height="180em" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=wbalbo)](https://git.io/streak-stats)" />
 <br><br>
 You can find me on the social networks below:
 <div style="display: inline_block"><br>
@@ -30,10 +29,10 @@ You can find me on the social networks below:
 </div>
 <br>
 
-- 🔭 I’m currently studying and trying to contribute with some open-source projects here.
-- 🌱 I’m currently learning more of my professional area, learning more .NET Core, SOLID principles, Design Patterns, and other cool things, I'll post new projects here in Github soon with my experiences.
-- 👯 I’m looking to collaborate on new and exciting projects in newer technologies, preferably in the .NET field.
+- 🔭 I’m studying and trying to contribute to open-source projects here.
+- 🌱 I’m currently learning more of my professional area, and other cool things, creating some MVPs and learning new techs using AIs.
+- 👯 I want to collaborate on new and exciting projects in newer technologies.
 
-If you have any questions please let me know, thanks!
+If you have any questions, please let me know. Thanks!
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
