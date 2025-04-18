@@ -38,3 +38,4 @@ You can find me on the social networks below:
 If you have any questions, please let me know. Thanks!
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![](https://hit.yhype.me/github/profile?account_id=570762)
