@@ -7,8 +7,6 @@
   </a>
 </div>
 <br>
-<img src="![](https://komarev.com/ghpvc/?username=wbalbo&color=blue&style=for-the-badge)" />
-<br>
 I have been a Software Developer since 2009, working mostly with Microsoft technologies. My most used skills are below:
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
