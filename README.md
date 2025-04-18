@@ -7,7 +7,7 @@
   </a>
 </div>
 <br>
-![](https://komarev.com/ghpvc/?username=wbalbo&color=blue&style=for-the-badge)
+<img src="![](https://komarev.com/ghpvc/?username=wbalbo&color=blue&style=for-the-badge)" />
 <br>
 I have been a Software Developer since 2009, working mostly with Microsoft technologies. My most used skills are below:
 <div style="display: inline_block"><br>
