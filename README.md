@@ -1,11 +1,13 @@
-### Hi there, I'm Wellington! 👋
+<h1>👋 Hi there, I'm Wellington!</h1>
 
-<div>  
+<div>
   <a href="https://github.com/wbalbo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbalbo&theme=tokyonight&count_private=true&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbalbo&theme=tokyonight&layout=compact" />
   </a>
 </div>
+<br>
+![](https://komarev.com/ghpvc/?username=wbalbo&color=blue&style=for-the-badge)
 <br>
 I have been a Software Developer since 2009, working mostly with Microsoft technologies. My most used skills are below:
 <div style="display: inline_block"><br>
