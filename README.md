@@ -29,9 +29,10 @@ You can find me on the social networks below:
 </div>
 <br>
 
-- 🔭 I’m studying and trying to contribute to open-source projects here.
-- 🌱 I’m currently learning more of my professional area, and other cool things, creating some MVPs and learning new techs using AIs.
-- 👯 I want to collaborate on new and exciting projects in newer technologies.
+🔭 I’m studying and trying to contribute to open-source projects here.
+🌱 I’m currently learning more about my professional area and other cool things, creating some MVPs, and learning new tech using AIs.
+👯 I want to collaborate on new and exciting projects in newer technologies.
+💻 I am looking for a new full-remote job as a Backend Developer or as a Full Stack Developer, let me know if you know something!
 
 If you have any questions, please let me know. Thanks!
 
